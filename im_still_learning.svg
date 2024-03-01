@@ -7,7 +7,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
-   sodipodi:docname="wasd-inkscape-104-04.20.2021.svg"
+   sodipodi:docname="im_still_learning.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -256,17 +256,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.7199999"
-     inkscape:cx="214.33824"
-     inkscape:cy="305.88236"
+     inkscape:zoom="1.36"
+     inkscape:cx="938.97062"
+     inkscape:cy="438.60296"
      inkscape:document-units="px"
      inkscape:current-layer="layer14"
      showgrid="false"
      units="in"
-     inkscape:window-width="1920"
-     inkscape:window-height="1056"
+     inkscape:window-width="1362"
+     inkscape:window-height="724"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="920"
      inkscape:window-maximized="1"
      inkscape:snap-global="false"
      inkscape:snap-object-midpoints="true"
@@ -6540,7 +6540,7 @@
       </g>
       <g
          id="g244"
-         transform="matrix(1.1493305,0,0,0.8913164,-59.46113,30.987329)"
+         transform="matrix(1.1493305,0,0,1.0846278,-58.950167,-19.689861)"
          style="display:inline;stroke-width:0.949609">
         <text
            transform="scale(0.86535129,1.1556001)"
@@ -6789,7 +6789,7 @@
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d0ccc0;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">4</tspan></text>
       <g
          id="g2"
-         transform="matrix(0.90744586,0,0,1.2535584,66.79971,-48.360581)"
+         transform="matrix(0.90744586,0,0,1.2535584,67.588129,-47.834512)"
          style="display:inline">
         <text
            transform="scale(0.74745887,1.3378663)"
@@ -6836,7 +6836,7 @@
            id="tspan7918-0">)</tspan></text>
       <g
          id="g249"
-         transform="matrix(1.0786461,0,0,1.0281237,-51.518648,-2.6911479)"
+         transform="matrix(1.0490831,0,0,0.97346272,-30.286112,8.0153452)"
          style="display:inline;fill:#1db63a;fill-opacity:1;stroke-width:1.00892">
         <text
            transform="scale(0.86978163,1.1497139)"
@@ -6978,7 +6978,7 @@
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d0ccc0;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">1</tspan></text>
       <g
          id="g247"
-         transform="translate(0.16814514,1.1821858)"
+         transform="matrix(1.0067563,0,0,0.92666949,-1.2435964,15.50547)"
          style="display:inline">
         <text
            transform="scale(0.73478106,1.3609496)"
@@ -7047,7 +7047,7 @@
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d0ccc0;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">5</tspan></text>
       <g
          id="g344"
-         transform="translate(4.1488929,2.5392134)"
+         transform="matrix(1,0,0,0.92706356,4.1488929,15.889186)"
          style="display:inline">
         <text
            transform="scale(0.95353074,1.0487339)"
@@ -7856,7 +7856,7 @@
            id="tspan10">*</tspan></text>
       <g
          id="g349"
-         transform="translate(-0.48673381,0.26202223)"
+         transform="matrix(0.97525358,0,0,0.88117826,14.809889,23.261241)"
          style="display:inline">
         <text
            transform="scale(0.76793944,1.302186)"
@@ -7983,93 +7983,101 @@
      id="layer14"
      inkscape:label="VIM - Programmers Dvorak"
      style="display:inline">
-    <text
-       transform="scale(0.96749451,1.0335976)"
-       id="text259"
-       x="1020.9731"
-       y="183.89632"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.04649px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#96938e;fill-opacity:1;stroke-width:1.00287"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.04649px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#96938e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00287"
-         sodipodi:role="line"
-         id="tspan259"
+    <g
+       id="g41"
+       transform="translate(0,0.66553093)">
+      <text
+         transform="scale(0.96749451,1.0335976)"
+         id="text259"
          x="1020.9731"
-         y="183.89632">:w (save)</tspan></text>
-    <text
-       transform="scale(0.96749451,1.0335976)"
-       id="text263"
-       x="1020.9731"
-       y="191.77223"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.04649px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#96938e;fill-opacity:1;stroke-width:1.00287"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.04649px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#96938e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00287"
-         sodipodi:role="line"
-         id="tspan263"
+         y="183.89632"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.04649px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#d0ccc0;fill-opacity:1;stroke-width:1.00287"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.04649px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#d0ccc0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00287"
+           sodipodi:role="line"
+           id="tspan259"
+           x="1020.9731"
+           y="183.89632">:w (save)</tspan></text>
+      <text
+         transform="scale(0.96749451,1.0335976)"
+         id="text263"
          x="1020.9731"
-         y="191.77223">:q (quit)</tspan></text>
-    <text
-       transform="scale(0.9641331,1.0372012)"
-       id="text264"
-       x="1071.5455"
-       y="191.16045"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.8906px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#96938e;fill-opacity:1;stroke-width:1.00287"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.8906px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#96938e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00287"
-         sodipodi:role="line"
-         id="tspan264"
-         x="1071.5455"
-         y="191.16045">:q! (quit w/o saving)</tspan></text>
-    <text
-       transform="scale(0.9641331,1.0372012)"
-       id="text265"
-       x="1070.9702"
-       y="174.39786"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.8906px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#96938e;fill-opacity:1;stroke-width:1.00287"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.8906px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#96938e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00287"
-         sodipodi:role="line"
-         id="tspan265"
-         x="1070.9702"
-         y="174.39786">:e f (open file f)</tspan></text>
-    <text
-       transform="scale(0.96749451,1.0335976)"
-       id="text267"
-       x="1020.9731"
-       y="176.02043"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.04649px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#96938e;fill-opacity:1;stroke-width:1.00287"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.04649px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#96938e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00287"
-         sodipodi:role="line"
-         id="tspan267"
+         y="191.77223"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.04649px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#d0ccc0;fill-opacity:1;stroke-width:1.00287"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.04649px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#d0ccc0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00287"
+           sodipodi:role="line"
+           id="tspan263"
+           x="1020.9731"
+           y="191.77223">:q (quit)</tspan></text>
+      <text
+         transform="scale(0.96749451,1.0335976)"
+         id="text267"
          x="1020.9731"
-         y="176.02043">:h (help)</tspan></text>
-    <text
-       transform="scale(0.96749451,1.0335976)"
-       id="text268"
-       x="1021.1642"
-       y="168.14452"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.04649px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#96938e;fill-opacity:1;stroke-width:1.00287"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.04649px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#96938e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00287"
-         sodipodi:role="line"
-         id="tspan268"
+         y="176.02043"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.04649px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#d0ccc0;fill-opacity:1;stroke-width:1.00287"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.04649px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#d0ccc0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00287"
+           sodipodi:role="line"
+           id="tspan267"
+           x="1020.9731"
+           y="176.02043">:h (help)</tspan></text>
+      <text
+         transform="scale(0.96749451,1.0335976)"
+         id="text268"
          x="1021.1642"
-         y="168.14452">:new (new)</tspan></text>
-    <text
-       transform="scale(0.9641331,1.0372012)"
-       id="text318"
-       x="1071.0355"
-       y="182.44872"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.8906px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#96938e;fill-opacity:1;stroke-width:1.00287"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.8906px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#96938e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00287"
-         sodipodi:role="line"
-         id="tspan318"
+         y="168.14452"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.04649px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#d0ccc0;fill-opacity:1;stroke-width:1.00287"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.04649px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#d0ccc0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00287"
+           sodipodi:role="line"
+           id="tspan268"
+           x="1021.1642"
+           y="168.14452">:new (new)</tspan></text>
+    </g>
+    <g
+       id="g40"
+       transform="matrix(0.96806373,0,0,0.97973067,33.271842,4.9239643)">
+      <text
+         transform="scale(0.9641331,1.0372012)"
+         id="text264"
+         x="1071.5455"
+         y="191.16045"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.8906px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#d0ccc0;fill-opacity:1;stroke-width:1.00287"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.8906px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#d0ccc0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00287"
+           sodipodi:role="line"
+           id="tspan264"
+           x="1071.5455"
+           y="191.16045">:q! (quit w/o saving)</tspan></text>
+      <text
+         transform="scale(0.9641331,1.0372012)"
+         id="text265"
+         x="1070.9702"
+         y="174.39786"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.8906px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#d0ccc0;fill-opacity:1;stroke-width:1.00287"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.8906px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#d0ccc0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00287"
+           sodipodi:role="line"
+           id="tspan265"
+           x="1070.9702"
+           y="174.39786">:e f (open file f)</tspan></text>
+      <text
+         transform="scale(0.9641331,1.0372012)"
+         id="text318"
          x="1071.0355"
-         y="182.44872">:wq (save and quit)</tspan></text>
+         y="182.44872"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.8906px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#d0ccc0;fill-opacity:1;stroke-width:1.00287"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.8906px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#d0ccc0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00287"
+           sodipodi:role="line"
+           id="tspan318"
+           x="1071.0355"
+           y="182.44872">:wq (save and quit)</tspan></text>
+    </g>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.6427px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;display:inline;fill:#d0ccc0;fill-opacity:1;stroke:#000000;stroke-width:0.234908;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       x="967.44098"
-       y="165.30666"
+       x="967.1236"
+       y="165.80241"
        id="text373"
        transform="scale(1.0213734,0.97907386)"><tspan
          sodipodi:role="line"
-         x="967.44098"
-         y="165.30666"
+         x="967.1236"
+         y="165.80241"
          id="tspan373"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.6427px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d0ccc0;fill-opacity:1;stroke:#000000;stroke-width:0.234908;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">Backspace</tspan></text>
     <path
@@ -8696,7 +8704,7 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.3285px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1db63a;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1">L</tspan></text>
     <g
        id="g361"
-       transform="matrix(1.0070291,0,0,1,-4.41708,0.30475153)"
+       transform="matrix(0.9548277,0,0,1.0334657,39.615743,-7.7781943)"
        style="display:inline;stroke-width:0.996504">
       <text
          transform="scale(0.92929659,1.0760827)"
@@ -8738,7 +8746,7 @@
     </g>
     <g
        id="g33"
-       transform="matrix(1,0,0,1.1480023,1.922633,-29.149398)"
+       transform="matrix(0.90451123,0,0,1.3076491,73.491553,-66.981031)"
        style="display:inline;stroke-width:0.933316">
       <text
          transform="scale(0.81677293,1.2243305)"
@@ -8852,7 +8860,7 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:23.5177px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1">C</tspan></text>
     <g
        id="g360"
-       transform="matrix(1.1585843,0,0,1.0979705,-109.20705,-21.61853)"
+       transform="matrix(1.0918922,0,0,1.0002983,-62.599581,-0.24198652)"
        style="display:inline;stroke-width:0.886627">
       <text
          transform="scale(0.80259146,1.2459639)"
@@ -8891,17 +8899,17 @@
     <text
        transform="scale(0.79791826,1.2532612)"
        id="text7788-7"
-       x="849.96283"
-       y="212.33971"
+       x="848.21075"
+       y="211.65079"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.47435px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f67f00;fill-opacity:1;stroke-width:2.4004"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.47435px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#f67f00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.4004"
          sodipodi:role="line"
          id="tspan7790-6"
-         x="849.96283"
-         y="212.33971">Change</tspan></text>
+         x="848.21075"
+         y="211.65079">Change</tspan></text>
     <g
        id="g121"
-       transform="matrix(0.9595171,0,0,1,41.374813,1.3935761)"
+       transform="matrix(0.85599821,0,0,1.0635583,141.27771,-14.720007)"
        style="display:inline;stroke-width:1.02088">
       <text
          transform="scale(0.73140108,1.3672389)"
@@ -8957,16 +8965,16 @@
     <text
        transform="scale(0.93983045,1.0640217)"
        id="text137"
-       x="224.60498"
-       y="184.80296"
+       x="225.03253"
+       y="184.54344"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.53796px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#5eb1e7;fill-opacity:1;stroke-width:1.35138"
        inkscape:transform-center-x="-0.13850701"
        inkscape:transform-center-y="3.9932801"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.53796px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#5eb1e7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.35138"
          sodipodi:role="line"
          id="tspan137"
-         x="224.60498"
-         y="184.80296">[...]</tspan></text>
+         x="225.03253"
+         y="184.54344">[...]</tspan></text>
     <text
        transform="scale(0.94446017,1.0588059)"
        id="text148"
@@ -8992,7 +9000,7 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 1315.2753,305.30274 -7.3602,8.00224 -8.0022,-7.36023 7.3602,-8.00223 z"
-       transform="matrix(0.14714439,0,0,0.50095303,15.13604,40.895533)" />
+       transform="matrix(0.14714439,0,0,0.50095303,17.13604,40.895533)" />
     <text
        transform="scale(0.98925198,1.0108648)"
        id="text8318"
@@ -9019,30 +9027,34 @@
          x="122.82886"
          y="169.62108"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:23.8627px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d0ccc0;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">%</tspan></text>
-    <text
-       transform="scale(0.91162456,1.0969428)"
-       id="text100"
-       x="153.85612"
-       y="173.13179"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.44031px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ac97d8;fill-opacity:1;stroke-width:0.894648"
-       inkscape:transform-center-x="-0.73959878"
-       inkscape:transform-center-y="5.6300355"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.44031px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#ac97d8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.894648"
+    <g
+       id="g22"
+       transform="matrix(0.95928186,0,0,1,3.7108877,0)">
+      <text
+         transform="scale(0.91162456,1.0969428)"
+         id="text100"
          x="153.85612"
          y="173.13179"
-         sodipodi:role="line"
-         id="tspan100">Repeat</tspan></text>
-    <text
-       transform="scale(0.9702178,1.0306964)"
-       id="text132"
-       x="144.06992"
-       y="191.44557"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.44031px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ac97d8;fill-opacity:1;stroke-width:0.756319"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.44031px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#ac97d8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.756319"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.44031px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ac97d8;fill-opacity:1;stroke-width:0.894648"
+         inkscape:transform-center-x="-0.73959878"
+         inkscape:transform-center-y="5.6300355"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.44031px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#ac97d8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.894648"
+           x="153.85612"
+           y="173.13179"
+           sodipodi:role="line"
+           id="tspan100">Repeat</tspan></text>
+      <text
+         transform="scale(0.9702178,1.0306964)"
+         id="text132"
          x="144.06992"
          y="191.44557"
-         sodipodi:role="line"
-         id="tspan132">Subst</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.44031px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ac97d8;fill-opacity:1;stroke-width:0.756319"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.44031px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#ac97d8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.756319"
+           x="144.06992"
+           y="191.44557"
+           sodipodi:role="line"
+           id="tspan132">Subst</tspan></text>
+    </g>
     <g
        id="g10"
        transform="matrix(1,0,0,0.92464475,4.426802,11.157047)"
@@ -9086,7 +9098,7 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d0ccc0;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">3</tspan></text>
     <g
        id="g345"
-       transform="translate(1.7481085,2.2161387)"
+       transform="matrix(1.0421733,0,0,0.90047088,-13.018345,20.969405)"
        style="display:inline">
       <text
          transform="scale(0.86620774,1.1544575)"
@@ -9163,16 +9175,16 @@
     <text
        transform="scale(0.90303239,1.10738)"
        id="text235"
-       x="870.28467"
-       y="174.41791"
+       x="871.35486"
+       y="176.2562"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.84892px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#5eb1e7;fill-opacity:1;stroke-width:1.39372"
        inkscape:transform-center-x="-0.17808686"
        inkscape:transform-center-y="3.9376994"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.84892px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#5eb1e7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.39372"
          sodipodi:role="line"
          id="tspan235"
-         x="870.28467"
-         y="174.41791">(...)</tspan></text>
+         x="871.35486"
+         y="176.2562">(...)</tspan></text>
     <path
        sodipodi:type="star"
        style="display:inline;fill:#00ffff;stroke:#000000;stroke-width:0.442;stroke-linecap:round;stroke-linejoin:bevel;paint-order:markers fill stroke"
@@ -9188,7 +9200,7 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 1315.2753,305.30274 -7.3602,8.00224 -8.0022,-7.36023 7.3602,-8.00223 z"
-       transform="matrix(0.14714439,0,0,0.50095303,591.06407,37.706692)" />
+       transform="matrix(0.14714439,0,0,0.50095303,592.26229,39.543681)" />
     <text
        transform="scale(0.87438162,1.1436654)"
        id="text7748"
@@ -9213,7 +9225,7 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d0ccc0;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">8</tspan></text>
     <g
        id="g2-5"
-       transform="matrix(1.0165885,0,0,0.93423315,-15.901003,14.360962)"
+       transform="matrix(1.0165885,0,0,0.87674826,-15.901003,25.695282)"
        style="display:inline">
       <text
          transform="scale(0.68988292,1.4495213)"
@@ -9241,37 +9253,41 @@
            y="146.41533">Command</tspan></text>
     </g>
     <text
-       transform="scale(0.98256922,1.01774)"
+       transform="scale(1.0633495,0.94042454)"
        id="text7868-9"
-       x="932.00702"
-       y="192.22032"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.9383px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#26a339;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.9383px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#26a339;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
-         x="932.00702"
-         y="192.22032"
+       x="861.20453"
+       y="208.21577"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.4237px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#26a339;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.4237px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#26a339;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+         x="861.20453"
+         y="208.21577"
          id="tspan7870-4">#</tspan></text>
-    <text
-       transform="scale(0.78270786,1.2776159)"
-       id="text141"
-       x="1185.8046"
-       y="149.19997"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2429px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#1db63a;fill-opacity:1;stroke-width:1.64416"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2429px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#1db63a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.64416"
-         sodipodi:role="line"
-         id="tspan141"
+    <g
+       id="g29"
+       transform="matrix(0.96566563,0,0,1.219182,32.145615,-38.71499)">
+      <text
+         transform="scale(0.78270786,1.2776159)"
+         id="text141"
          x="1185.8046"
-         y="149.19997">&quot;*&quot;</tspan></text>
-    <text
-       transform="scale(0.61566222,1.6242673)"
-       id="text142"
-       x="1509.1346"
-       y="121.55822"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.42294px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#1db63a;fill-opacity:1;stroke-width:0.828601"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.42294px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#1db63a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.828601"
-         sodipodi:role="line"
-         id="tspan142"
-         x="1509.1346"
-         y="121.55822">Backward</tspan></text>
+         y="149.19997"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2429px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#1db63a;fill-opacity:1;stroke-width:1.64416"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2429px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#1db63a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.64416"
+           sodipodi:role="line"
+           id="tspan141"
+           x="1185.8046"
+           y="149.19997">&quot;*&quot;</tspan></text>
+      <text
+         transform="scale(0.73413828,1.3621412)"
+         id="text142"
+         x="1265.5887"
+         y="142.94009"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.90226px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#1db63a;fill-opacity:1;stroke-width:0.69488"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.90226px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#1db63a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.69488"
+           sodipodi:role="line"
+           id="tspan142"
+           x="1265.5887"
+           y="142.94009">Backward</tspan></text>
+    </g>
     <g
        id="g380"
        transform="matrix(1,0,0,0.89062216,1.0043232,19.080261)"
@@ -9361,12 +9377,11 @@
        d="m 1315.2753,305.30274 -7.3602,8.00224 -8.0022,-7.36023 7.3602,-8.00223 z"
        transform="matrix(0.14714439,0,0,0.50095303,413.88663,109.72299)" />
     <g
-       id="g359"
-       transform="matrix(1.1216509,0,0,1,-72.203752,1.8534029)"
-       style="display:inline;stroke-width:0.944216">
+       id="g30"
+       transform="matrix(0.92421518,0,0,1.0273168,49.262102,-6.3059496)">
       <g
          id="g256"
-         transform="matrix(0.75534526,0,0,1,148.15197,0)"
+         transform="matrix(0.87441713,0,0,0.94204471,77.509956,14.753526)"
          style="stroke-width:0.944216">
         <g
            id="g15"
@@ -9398,7 +9413,7 @@
       </g>
       <g
          id="g262"
-         transform="matrix(1,0,0,0.96595019,0,15.903508)"
+         transform="matrix(1.1106178,0,0,0.90996827,-65.52262,29.735342)"
          style="stroke-width:0.944216">
         <g
            id="g261"
@@ -9434,7 +9449,7 @@
       </g>
       <g
          id="g358"
-         transform="matrix(0.61891221,0,0,0.80042743,245.15621,46.038162)"
+         transform="matrix(0.71647691,0,0,0.75403843,189.80585,58.123533)"
          style="stroke-width:1.16592">
         <g
            id="g357"
@@ -9516,7 +9531,7 @@
     </g>
     <g
        id="g8"
-       transform="matrix(1.1749756,0,0,1,-89.239815,-0.40973532)"
+       transform="matrix(1.1994699,0,0,0.90918307,-103.18049,19.23074)"
        style="display:inline;stroke-width:0.922541">
       <text
          transform="scale(0.79502516,1.2578218)"
@@ -9597,7 +9612,7 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:23.5177px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1db63a;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1">?</tspan></text>
     <g
        id="g382"
-       transform="matrix(1.022189,0,0,1,-17.977058,0.7333055)"
+       transform="matrix(0.87105577,0,0,0.91568678,118.7965,21.932889)"
        style="display:inline;stroke-width:0.989087">
       <text
          transform="scale(0.69455185,1.4397773)"
@@ -9624,7 +9639,7 @@
     </g>
     <g
        id="g26"
-       transform="matrix(1.0995845,0,0,1,-85.78648,-0.35313)"
+       transform="matrix(1.0125559,0,0,1.088162,-8.0161529,-21.534869)"
        style="display:inline;stroke-width:0.953643">
       <text
          transform="scale(0.96131811,1.0402384)"
@@ -9693,7 +9708,7 @@
          id="tspan7762-1">y</tspan></text>
     <g
        id="g27"
-       transform="translate(3.8924829,2.1607747)"
+       transform="translate(3.8924829,0.1607747)"
        style="display:inline">
       <text
          transform="scale(0.94510209,1.0580868)"
@@ -9719,16 +9734,16 @@
            id="tspan158">Line</tspan></text>
     </g>
     <text
-       transform="scale(0.88275558,1.1328164)"
+       transform="scale(0.83273319,1.2008648)"
        id="text160"
-       x="527.16095"
-       y="234.63733"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6725px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;stroke-width:2.77262"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6725px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#e9a92c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.77262"
+       x="556.85553"
+       y="221.8687"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.9579px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;stroke-width:3.10655"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.9579px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#e9a92c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.10655"
          sodipodi:role="line"
          id="tspan159"
-         x="527.16095"
-         y="234.63733">Yank</tspan></text>
+         x="556.85553"
+         y="221.8687">Yank</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.1475px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;display:inline;fill:#826ec4;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1"
@@ -9775,31 +9790,29 @@
          x="430.30164"
          y="175.41998">Indent</tspan></text>
     <g
-       id="g28"
-       transform="matrix(1.0993039,0,0,0.91100925,-31.43229,24.858899)"
-       style="display:inline;stroke-width:0.953764">
+       id="g38">
       <text
-         transform="scale(0.82887278,1.2064578)"
+         transform="scale(0.81544595,1.2263228)"
          id="text8550"
-         x="379.05817"
-         y="215.52217"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.43468px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ac97d8;fill-opacity:1;stroke-width:1.08085"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.43468px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#ac97d8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.08085"
+         x="387.97513"
+         y="213.22536"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.17915078px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ac97d8;fill-opacity:1;stroke-width:1.1481"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.17915078px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#ac97d8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.1481"
            sodipodi:role="line"
            id="tspan8554"
-           x="379.05817"
-           y="215.52217">Repeat</tspan></text>
+           x="387.97513"
+           y="213.22536">Repeat</tspan></text>
       <text
-         transform="scale(0.83568185,1.1966276)"
+         transform="scale(0.82214473,1.2163309)"
          id="text153"
-         x="375.40015"
-         y="224.9166"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.73113px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ac97d8;fill-opacity:1;stroke-width:1.08631"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.73113px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#ac97d8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.08631"
+         x="384.20901"
+         y="223.07527"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.17915038px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ac97d8;fill-opacity:1;stroke-width:1.1539"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.17915038px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#ac97d8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.1539"
            sodipodi:role="line"
            id="tspan147"
-           x="375.40015"
-           y="224.9166">Action</tspan></text>
+           x="384.20901"
+           y="223.07527">Action</tspan></text>
     </g>
     <text
        transform="scale(1.1050518,0.90493495)"
@@ -9982,7 +9995,7 @@
     </g>
     <g
        id="g1"
-       transform="matrix(0.98975869,0,0,0.98674852,0.53266198,2.9918944)"
+       transform="matrix(0.93805141,0,0,0.96708243,6.2422695,8.712813)"
        style="stroke-width:1.01188">
       <text
          transform="scale(0.90885088,1.1002905)"
@@ -10291,7 +10304,7 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.6427px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d0ccc0;fill-opacity:1;stroke:#000000;stroke-width:0.234908;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">Shift</tspan></text>
     <g
        id="g25"
-       transform="matrix(0.98376348,0,0,1,-971.38195,0.69239004)"
+       transform="matrix(0.93496908,0,0,1,-918.91652,0.69239004)"
        style="display:inline;stroke-width:1.00822">
       <text
          transform="scale(0.78696784,1.2707)"
@@ -11215,97 +11228,9 @@
            x="947.09973"
            y="326.82166">Down</tspan></text>
     </g>
-    <text
-       transform="scale(1.0073863,0.99266785)"
-       id="text222"
-       x="1034.11"
-       y="304.49323"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.17967px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#d0ccc0;fill-opacity:1;stroke:none;stroke-width:0.0899533;stroke-dasharray:none;stroke-opacity:1"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.17967px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#d0ccc0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0899533;stroke-dasharray:none;stroke-opacity:1"
-         x="1034.11"
-         sodipodi:role="line"
-         id="tspan222"
-         y="304.49323">gg</tspan></text>
-    <text
-       transform="scale(0.84608846,1.1819095)"
-       id="text240"
-       x="1247.3601"
-       y="256.67029"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.8823px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#d0ccc0;fill-opacity:1;stroke:none;stroke-width:0.104583;stroke-dasharray:none;stroke-opacity:1"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.8823px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#d0ccc0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.104583;stroke-dasharray:none;stroke-opacity:1"
-         x="1247.3601"
-         sodipodi:role="line"
-         id="tspan239"
-         y="256.67029">start of file</tspan></text>
-    <text
-       transform="scale(1.0073863,0.99266785)"
-       id="text299"
-       x="1034.045"
-       y="310.45966"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.17967px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#d0ccc0;fill-opacity:1;stroke:none;stroke-width:0.0899533;stroke-dasharray:none;stroke-opacity:1"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.17967px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#d0ccc0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0899533;stroke-dasharray:none;stroke-opacity:1"
-         x="1034.045"
-         sodipodi:role="line"
-         id="tspan298"
-         y="310.45966">gd</tspan></text>
-    <text
-       transform="scale(0.92804375,1.0775354)"
-       id="text300"
-       x="1137.3953"
-       y="286.37735"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.80063px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#d0ccc0;fill-opacity:1;stroke:none;stroke-width:0.0895605;stroke-dasharray:none;stroke-opacity:1"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.80063px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#d0ccc0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0895605;stroke-dasharray:none;stroke-opacity:1"
-         x="1137.3953"
-         sodipodi:role="line"
-         id="tspan299"
-         y="286.37735">goto definition</tspan></text>
-    <text
-       transform="scale(1.0073863,0.99266785)"
-       id="text301"
-       x="1034.1652"
-       y="316.68564"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.17967px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#d0ccc0;fill-opacity:1;stroke:none;stroke-width:0.0899533;stroke-dasharray:none;stroke-opacity:1"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.17967px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#d0ccc0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0899533;stroke-dasharray:none;stroke-opacity:1"
-         x="1034.1652"
-         sodipodi:role="line"
-         id="tspan300"
-         y="316.68564">g#</tspan></text>
-    <text
-       transform="scale(0.92637479,1.0794767)"
-       id="text302"
-       x="1139.4445"
-       y="291.24814"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.81038px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#d0ccc0;fill-opacity:1;stroke:none;stroke-width:0.0895604;stroke-dasharray:none;stroke-opacity:1"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.81038px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#d0ccc0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0895604;stroke-dasharray:none;stroke-opacity:1"
-         x="1139.4445"
-         sodipodi:role="line"
-         id="tspan301"
-         y="291.24814">goto line #</tspan></text>
-    <text
-       transform="scale(1.0073863,0.99266785)"
-       id="text312"
-       x="1034.0632"
-       y="322.6521"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.17967px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#d0ccc0;fill-opacity:1;stroke:none;stroke-width:0.0899533;stroke-dasharray:none;stroke-opacity:1"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.17967px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#d0ccc0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0899533;stroke-dasharray:none;stroke-opacity:1"
-         x="1034.0632"
-         sodipodi:role="line"
-         id="tspan312"
-         y="322.6521">gf</tspan></text>
-    <text
-       transform="scale(0.9399665,1.0638677)"
-       id="text315"
-       x="1122.9683"
-       y="300.86856"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.72637px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#d0ccc0;fill-opacity:1;stroke:none;stroke-width:0.0895604;stroke-dasharray:none;stroke-opacity:1"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.72637px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#d0ccc0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0895604;stroke-dasharray:none;stroke-opacity:1"
-         x="1122.9683"
-         sodipodi:role="line"
-         id="tspan315"
-         y="300.86856">goto file under</tspan></text>
     <g
        id="g367"
-       transform="matrix(1.0401123,0,0,1.5606714,-37.27216,-183.56774)"
+       transform="matrix(1.0300956,0,0,1.5606714,-26.917181,-183.56774)"
        style="display:inline;stroke-width:0.784882">
       <text
          transform="scale(0.85594879,1.1682942)"
@@ -11353,61 +11278,153 @@
          y="312.41153"
          id="tspan368"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.6427px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d0ccc0;fill-opacity:1;stroke:#000000;stroke-width:0.234908;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">Enter</tspan></text>
-    <text
-       transform="scale(1.0073863,0.99266785)"
-       id="text41"
-       x="1034.0632"
-       y="328.69641"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.17967px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#d0ccc0;fill-opacity:1;stroke:none;stroke-width:0.0899533;stroke-dasharray:none;stroke-opacity:1"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.17967px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#d0ccc0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0899533;stroke-dasharray:none;stroke-opacity:1"
+    <g
+       id="g35"
+       transform="matrix(0.9481564,0,0,1.2265509,54.023278,-67.747021)">
+      <text
+         transform="scale(1.0073863,0.99266785)"
+         id="text222"
+         x="1034.11"
+         y="304.49323"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.17967px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#d0ccc0;fill-opacity:1;stroke:none;stroke-width:0.0899533;stroke-dasharray:none;stroke-opacity:1"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.17967px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#d0ccc0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0899533;stroke-dasharray:none;stroke-opacity:1"
+           x="1034.11"
+           sodipodi:role="line"
+           id="tspan222"
+           y="304.49323">gg</tspan></text>
+      <text
+         transform="scale(0.84608846,1.1819095)"
+         id="text240"
+         x="1247.3601"
+         y="256.67029"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.8823px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#d0ccc0;fill-opacity:1;stroke:none;stroke-width:0.104583;stroke-dasharray:none;stroke-opacity:1"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.8823px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#d0ccc0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.104583;stroke-dasharray:none;stroke-opacity:1"
+           x="1247.3601"
+           sodipodi:role="line"
+           id="tspan239"
+           y="256.67029">start of file</tspan></text>
+      <text
+         transform="scale(1.0073863,0.99266785)"
+         id="text299"
+         x="1034.045"
+         y="310.45966"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.17967px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#d0ccc0;fill-opacity:1;stroke:none;stroke-width:0.0899533;stroke-dasharray:none;stroke-opacity:1"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.17967px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#d0ccc0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0899533;stroke-dasharray:none;stroke-opacity:1"
+           x="1034.045"
+           sodipodi:role="line"
+           id="tspan298"
+           y="310.45966">gd</tspan></text>
+      <text
+         transform="scale(0.92804375,1.0775354)"
+         id="text300"
+         x="1137.3953"
+         y="286.37735"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.80063px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#d0ccc0;fill-opacity:1;stroke:none;stroke-width:0.0895605;stroke-dasharray:none;stroke-opacity:1"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.80063px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#d0ccc0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0895605;stroke-dasharray:none;stroke-opacity:1"
+           x="1137.3953"
+           sodipodi:role="line"
+           id="tspan299"
+           y="286.37735">goto definition</tspan></text>
+      <text
+         transform="scale(1.0073863,0.99266785)"
+         id="text301"
+         x="1034.1652"
+         y="316.68564"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.17967px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#d0ccc0;fill-opacity:1;stroke:none;stroke-width:0.0899533;stroke-dasharray:none;stroke-opacity:1"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.17967px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#d0ccc0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0899533;stroke-dasharray:none;stroke-opacity:1"
+           x="1034.1652"
+           sodipodi:role="line"
+           id="tspan300"
+           y="316.68564">g#</tspan></text>
+      <text
+         transform="scale(0.92637479,1.0794767)"
+         id="text302"
+         x="1139.4445"
+         y="291.24814"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.81038px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#d0ccc0;fill-opacity:1;stroke:none;stroke-width:0.0895604;stroke-dasharray:none;stroke-opacity:1"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.81038px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#d0ccc0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0895604;stroke-dasharray:none;stroke-opacity:1"
+           x="1139.4445"
+           sodipodi:role="line"
+           id="tspan301"
+           y="291.24814">goto line #</tspan></text>
+      <text
+         transform="scale(1.0073863,0.99266785)"
+         id="text312"
          x="1034.0632"
-         sodipodi:role="line"
-         id="tspan41"
-         y="328.69641">gv</tspan></text>
-    <text
-       transform="scale(1.0073863,0.99266785)"
-       id="text42"
-       x="1034.0632"
-       y="334.74072"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.17967px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#d0ccc0;fill-opacity:1;stroke:none;stroke-width:0.0899533;stroke-dasharray:none;stroke-opacity:1"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.17967px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#d0ccc0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0899533;stroke-dasharray:none;stroke-opacity:1"
+         y="322.6521"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.17967px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#d0ccc0;fill-opacity:1;stroke:none;stroke-width:0.0899533;stroke-dasharray:none;stroke-opacity:1"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.17967px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#d0ccc0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0899533;stroke-dasharray:none;stroke-opacity:1"
+           x="1034.0632"
+           sodipodi:role="line"
+           id="tspan312"
+           y="322.6521">gf</tspan></text>
+      <text
+         transform="scale(0.9399665,1.0638677)"
+         id="text315"
+         x="1122.9683"
+         y="300.86856"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.72637px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#d0ccc0;fill-opacity:1;stroke:none;stroke-width:0.0895604;stroke-dasharray:none;stroke-opacity:1"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.72637px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#d0ccc0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0895604;stroke-dasharray:none;stroke-opacity:1"
+           x="1122.9683"
+           sodipodi:role="line"
+           id="tspan315"
+           y="300.86856">goto file under</tspan></text>
+      <text
+         transform="scale(1.0073863,0.99266785)"
+         id="text41"
          x="1034.0632"
-         sodipodi:role="line"
-         id="tspan42"
-         y="334.74072">gE</tspan></text>
-    <text
-       transform="scale(0.77762051,1.2859743)"
-       id="text44"
-       x="1357.8236"
-       y="253.34142"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.80013px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#d0ccc0;fill-opacity:1;stroke:none;stroke-width:0.0899531;stroke-dasharray:none;stroke-opacity:1"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.80013px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#d0ccc0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0899531;stroke-dasharray:none;stroke-opacity:1"
+         y="328.69641"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.17967px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#d0ccc0;fill-opacity:1;stroke:none;stroke-width:0.0899533;stroke-dasharray:none;stroke-opacity:1"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.17967px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#d0ccc0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0899533;stroke-dasharray:none;stroke-opacity:1"
+           x="1034.0632"
+           sodipodi:role="line"
+           id="tspan41"
+           y="328.69641">gv</tspan></text>
+      <text
+         transform="scale(1.0073863,0.99266785)"
+         id="text42"
+         x="1034.0632"
+         y="334.74072"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.17967px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#d0ccc0;fill-opacity:1;stroke:none;stroke-width:0.0899533;stroke-dasharray:none;stroke-opacity:1"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.17967px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#d0ccc0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0899533;stroke-dasharray:none;stroke-opacity:1"
+           x="1034.0632"
+           sodipodi:role="line"
+           id="tspan42"
+           y="334.74072">gE</tspan></text>
+      <text
+         transform="scale(0.77762051,1.2859743)"
+         id="text44"
          x="1357.8236"
-         sodipodi:role="line"
-         id="tspan43"
-         y="253.34142">reselect prev. visual</tspan></text>
-    <text
-       transform="scale(0.89378948,1.1188317)"
-       id="text70"
-       x="1181.4718"
-       y="296.39896"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.28019px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#d0ccc0;fill-opacity:1;stroke:none;stroke-width:0.0899534;stroke-dasharray:none;stroke-opacity:1"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.28019px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#d0ccc0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0899534;stroke-dasharray:none;stroke-opacity:1"
+         y="253.34142"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.80013px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#d0ccc0;fill-opacity:1;stroke:none;stroke-width:0.0899531;stroke-dasharray:none;stroke-opacity:1"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.80013px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#d0ccc0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0899531;stroke-dasharray:none;stroke-opacity:1"
+           x="1357.8236"
+           sodipodi:role="line"
+           id="tspan43"
+           y="253.34142">reselect prev. visual</tspan></text>
+      <text
+         transform="scale(0.89378948,1.1188317)"
+         id="text70"
          x="1181.4718"
-         sodipodi:role="line"
-         id="tspan69"
-         y="296.39896">End of</tspan></text>
-    <text
-       transform="scale(0.89912606,1.1121911)"
-       id="text120"
-       x="1196.7687"
-       y="298.1572"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9165px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#d0ccc0;fill-opacity:1;stroke:none;stroke-width:0.0899534;stroke-dasharray:none;stroke-opacity:1"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9165px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#d0ccc0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0899534;stroke-dasharray:none;stroke-opacity:1"
+         y="296.39896"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.28019px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#d0ccc0;fill-opacity:1;stroke:none;stroke-width:0.0899534;stroke-dasharray:none;stroke-opacity:1"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.28019px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#d0ccc0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0899534;stroke-dasharray:none;stroke-opacity:1"
+           x="1181.4718"
+           sodipodi:role="line"
+           id="tspan69"
+           y="296.39896">End of</tspan></text>
+      <text
+         transform="scale(0.89912606,1.1121911)"
+         id="text120"
          x="1196.7687"
-         sodipodi:role="line"
-         id="tspan120"
-         y="298.1572">prev. word</tspan></text>
+         y="298.1572"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9165px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#d0ccc0;fill-opacity:1;stroke:none;stroke-width:0.0899534;stroke-dasharray:none;stroke-opacity:1"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9165px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#d0ccc0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0899534;stroke-dasharray:none;stroke-opacity:1"
+           x="1196.7687"
+           sodipodi:role="line"
+           id="tspan120"
+           y="298.1572">prev. word</tspan></text>
+    </g>
     <text
        transform="scale(0.95329403,1.0489943)"
        id="text7892"
@@ -12227,7 +12244,7 @@
     </g>
     <g
        id="g373"
-       transform="matrix(0.87405806,0,0,1,137.58211,0.9268258)"
+       transform="matrix(0.88776078,0,0,0.99795547,123.40952,1.679919)"
        style="display:inline;stroke-width:1.06962">
       <text
          transform="scale(0.99597387,1.0040424)"
@@ -12413,7 +12430,7 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.6427px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d0ccc0;fill-opacity:1;stroke:#000000;stroke-width:0.234908;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">Shift</tspan></text>
     <g
        id="g14"
-       transform="matrix(0.92720822,0,0,1,992.94829,-0.86743309)"
+       transform="matrix(0.87285458,0,0,1,999.19904,-0.86743309)"
        style="display:inline;stroke-width:1.03851">
       <text
          transform="scale(0.82797989,1.2077588)"
@@ -12484,7 +12501,7 @@
     </g>
     <g
        id="g336"
-       transform="matrix(0.93815685,0,0,0.97239203,54.670593,3.5964169)"
+       transform="matrix(0.96054245,0,0,0.97239203,36.711257,-1.8466567)"
        style="display:inline;stroke-width:1.04699">
       <path
          sodipodi:type="star"
@@ -12528,7 +12545,7 @@
     <g
        id="g122"
        style="display:inline"
-       transform="translate(-0.92863716,1.0543409)">
+       transform="matrix(0.96982031,0,0,1,29.528435,1.0543409)">
       <g
          id="g376"
          transform="matrix(1.1487843,0,0,1.0475224,-144.19302,-25.746819)"
@@ -12606,28 +12623,32 @@
              y="440.6871">Paste from buffer</tspan></text>
       </g>
     </g>
-    <text
-       transform="scale(0.8101334,1.2343646)"
-       id="text303"
-       x="1062.7645"
-       y="385.89011"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.37674px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.806826"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.37674px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.806826"
-         sodipodi:role="line"
+    <g
+       id="g39"
+       transform="matrix(0.95970009,0,0,1.0091026,37.105004,-2.3820497)">
+      <text
+         transform="scale(0.8101334,1.2343646)"
+         id="text303"
          x="1062.7645"
          y="385.89011"
-         id="tspan302">vim -d foo.txt bar.txt</tspan></text>
-    <text
-       transform="scale(0.82750172,1.2084567)"
-       id="text253"
-       x="1040.5428"
-       y="398.2937"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.46582px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#d0ccc0;fill-opacity:1;stroke-width:0.683112"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.46582px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#d0ccc0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.683112"
-         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.37674px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.806826"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.37674px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.806826"
+           sodipodi:role="line"
+           x="1062.7645"
+           y="385.89011"
+           id="tspan302">vim -d foo.txt bar.txt</tspan></text>
+      <text
+         transform="scale(0.82750172,1.2084567)"
+         id="text253"
          x="1040.5428"
          y="398.2937"
-         id="tspan233">Generate diff of foo and bar</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.46582px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#d0ccc0;fill-opacity:1;stroke-width:0.683112"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.46582px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#d0ccc0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.683112"
+           sodipodi:role="line"
+           x="1040.5428"
+           y="398.2937"
+           id="tspan233">Generate diff of foo and bar</tspan></text>
+    </g>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.6427px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;display:inline;fill:#d0ccc0;fill-opacity:1;stroke:#000000;stroke-width:0.234908;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -12652,117 +12673,121 @@
          y="458.27533"
          id="tspan371"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.6427px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d0ccc0;fill-opacity:1;stroke:#000000;stroke-width:0.234908;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">Menu</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.63664px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;fill:#43165e;fill-opacity:1;stroke:#000000;stroke-width:0.411883;stroke-linecap:round;stroke-linejoin:bevel;paint-order:markers fill stroke"
-       x="763.46729"
-       y="414.93854"
-       id="text262"
-       transform="scale(0.89447038,1.11798)"><tspan
-         sodipodi:role="line"
-         id="tspan262"
+    <g
+       id="g42"
+       transform="matrix(0.99054972,0,0,1.0364285,6.0183224,-16.030344)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.63664px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;fill:#43165e;fill-opacity:1;stroke:#000000;stroke-width:0.411883;stroke-linecap:round;stroke-linejoin:bevel;paint-order:markers fill stroke"
          x="763.46729"
          y="414.93854"
-         style="stroke-width:0.411883">Rec. macro</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.69107px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;fill:#43165e;fill-opacity:1;stroke:#000000;stroke-width:0.359278;stroke-linecap:round;stroke-linejoin:bevel;paint-order:markers fill stroke"
-       x="842.35016"
-       y="407.99103"
-       id="text269"
-       transform="scale(0.88095955,1.1351259)"><tspan
-         sodipodi:role="line"
-         id="tspan269"
+         id="text262"
+         transform="scale(0.89447038,1.11798)"><tspan
+           sodipodi:role="line"
+           id="tspan262"
+           x="763.46729"
+           y="414.93854"
+           style="stroke-width:0.411883">Rec. macro</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.69107px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;fill:#43165e;fill-opacity:1;stroke:#000000;stroke-width:0.359278;stroke-linecap:round;stroke-linejoin:bevel;paint-order:markers fill stroke"
          x="842.35016"
          y="407.99103"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.69107px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.359278">(q + {a-zA-Z})</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.06944px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;fill:#43165e;fill-opacity:1;stroke:#000000;stroke-width:0.410938;stroke-linecap:round;stroke-linejoin:bevel;paint-order:markers fill stroke"
-       x="725.83478"
-       y="427.47272"
-       id="text270"
-       transform="scale(0.94014439,1.0636664)"><tspan
-         sodipodi:role="line"
-         id="tspan270"
-         x="731.27643"
+         id="text269"
+         transform="scale(0.88095955,1.1351259)"><tspan
+           sodipodi:role="line"
+           id="tspan269"
+           x="842.35016"
+           y="407.99103"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.69107px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.359278">(q + {a-zA-Z})</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.06944px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;fill:#43165e;fill-opacity:1;stroke:#000000;stroke-width:0.410938;stroke-linecap:round;stroke-linejoin:bevel;paint-order:markers fill stroke"
+         x="725.83478"
          y="427.47272"
-         style="stroke-width:0.410938">Goto mark </tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.69107px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;fill:#43165e;fill-opacity:1;stroke:#000000;stroke-width:0.364543;stroke-linecap:round;stroke-linejoin:bevel;paint-order:markers fill stroke"
-       x="831.76666"
-       y="405.56567"
-       id="text271"
-       transform="scale(0.89262163,1.1202955)"><tspan
-         sodipodi:role="line"
-         id="tspan271"
+         id="text270"
+         transform="scale(0.94014439,1.0636664)"><tspan
+           sodipodi:role="line"
+           id="tspan270"
+           x="731.27643"
+           y="427.47272"
+           style="stroke-width:0.410938">Goto mark </tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.69107px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;fill:#43165e;fill-opacity:1;stroke:#000000;stroke-width:0.364543;stroke-linecap:round;stroke-linejoin:bevel;paint-order:markers fill stroke"
          x="831.76666"
          y="405.56567"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.69107px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.364543">(' + {a-zA-Z})</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.69996px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;fill:#43165e;fill-opacity:1;stroke:#000000;stroke-width:0.428395;stroke-linecap:round;stroke-linejoin:bevel;paint-order:markers fill stroke"
-       x="677.9693"
-       y="449.18518"
-       id="text272"
-       transform="scale(1.0072698,0.99278267)"><tspan
-         sodipodi:role="line"
-         id="tspan272"
+         id="text271"
+         transform="scale(0.89262163,1.1202955)"><tspan
+           sodipodi:role="line"
+           id="tspan271"
+           x="831.76666"
+           y="405.56567"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.69107px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.364543">(' + {a-zA-Z})</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.69996px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;fill:#43165e;fill-opacity:1;stroke:#000000;stroke-width:0.428395;stroke-linecap:round;stroke-linejoin:bevel;paint-order:markers fill stroke"
          x="677.9693"
          y="449.18518"
-         style="stroke-width:0.428395">Set mark</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.69107px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;fill:#43165e;fill-opacity:1;stroke:#000000;stroke-width:0.364958;stroke-linecap:round;stroke-linejoin:bevel;paint-order:markers fill stroke"
-       x="851.25232"
-       y="388.31131"
-       id="text273"
-       transform="scale(0.87138369,1.1476001)"><tspan
-         sodipodi:role="line"
-         id="tspan273"
+         id="text272"
+         transform="scale(1.0072698,0.99278267)"><tspan
+           sodipodi:role="line"
+           id="tspan272"
+           x="677.9693"
+           y="449.18518"
+           style="stroke-width:0.428395">Set mark</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.69107px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;fill:#43165e;fill-opacity:1;stroke:#000000;stroke-width:0.364958;stroke-linecap:round;stroke-linejoin:bevel;paint-order:markers fill stroke"
          x="851.25232"
          y="388.31131"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.69107px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.364958">(m + {a-zA-Z})</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.63664px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;fill:#43165e;fill-opacity:1;stroke:#000000;stroke-width:0.411883;stroke-linecap:round;stroke-linejoin:bevel;paint-order:markers fill stroke"
-       x="763.16028"
-       y="422.79288"
-       id="text295"
-       transform="scale(0.89447038,1.11798)"><tspan
-         sodipodi:role="line"
-         id="tspan295"
+         id="text273"
+         transform="scale(0.87138369,1.1476001)"><tspan
+           sodipodi:role="line"
+           id="tspan273"
+           x="851.25232"
+           y="388.31131"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.69107px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.364958">(m + {a-zA-Z})</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.63664px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;fill:#43165e;fill-opacity:1;stroke:#000000;stroke-width:0.411883;stroke-linecap:round;stroke-linejoin:bevel;paint-order:markers fill stroke"
          x="763.16028"
          y="422.79288"
-         style="stroke-width:0.411883">Play macro</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.69107px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;fill:#43165e;fill-opacity:1;stroke:#000000;stroke-width:0.349684;stroke-linecap:round;stroke-linejoin:bevel;paint-order:markers fill stroke"
-       x="820.5835"
-       y="427.69217"
-       id="text296"
-       transform="scale(0.9052846,1.104625)"><tspan
-         sodipodi:role="line"
-         id="tspan296"
+         id="text295"
+         transform="scale(0.89447038,1.11798)"><tspan
+           sodipodi:role="line"
+           id="tspan295"
+           x="763.16028"
+           y="422.79288"
+           style="stroke-width:0.411883">Play macro</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.69107px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;fill:#43165e;fill-opacity:1;stroke:#000000;stroke-width:0.349684;stroke-linecap:round;stroke-linejoin:bevel;paint-order:markers fill stroke"
          x="820.5835"
          y="427.69217"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.69107px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.349684">(@ + {a-zA-Z})</tspan></text>
+         id="text296"
+         transform="scale(0.9052846,1.104625)"><tspan
+           sodipodi:role="line"
+           id="tspan296"
+           x="820.5835"
+           y="427.69217"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.69107px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.349684">(@ + {a-zA-Z})</tspan></text>
+    </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.4677px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;fill:#43165e;fill-opacity:1;stroke:#000000;stroke-width:0.394139;stroke-linecap:round;stroke-linejoin:bevel;paint-order:markers fill stroke"
-       x="856.52338"
-       y="329.43295"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6438px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;fill:#43165e;fill-opacity:1;stroke:#000000;stroke-width:0.365821;stroke-linecap:round;stroke-linejoin:bevel;paint-order:markers fill stroke"
+       x="794.92505"
+       y="353.81839"
        id="text139"
-       transform="scale(0.73102991,1.3679331)"><tspan
+       transform="scale(0.78769488,1.2695271)"><tspan
          sodipodi:role="line"
-         x="856.52338"
-         y="329.43295"
+         x="794.92505"
+         y="353.81839"
          id="tspan237"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.4677px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.394139">Type {a-zA-Z} before yank/paste/del to use specific register</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6438px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.365821">Type {a-zA-Z} before yank/paste/del to use specific register</tspan></text>
     <g
        id="g37"
-       transform="matrix(1.1791941,0,0,1.1634554,-88.842069,-74.320759)"
+       transform="matrix(1.1790399,0,0,1.4110985,-88.767938,-189.20914)"
        style="display:inline;stroke-width:0.853753">
       <text
          xml:space="preserve"
@@ -12830,84 +12855,79 @@
          y="459.43842"
          id="tspan374"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.6427px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d0ccc0;fill-opacity:1;stroke:#000000;stroke-width:0.234908;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">Alt</tspan></text>
-    <g
-       id="g268"
-       style="display:inline"
-       transform="translate(1.7401015,2.6490302)">
-      <text
-         transform="scale(0.79365279,1.2599968)"
-         id="text29"
-         x="970.79205"
-         y="370.38696"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.018px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#8b8880;fill-opacity:1;stroke-width:0.883674"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.018px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#8b8880;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.883674"
-           x="970.79205 975.0799 979.36804 981.31897 983.26978 987.36829 989.31921 993.60724 997.50934 1001.7972 1003.7485 1008.0364 1012.3244 1014.2754 1018.5634 1022.8514 1024.8022 1029.0903 1031.4276 1033.3783 1035.3296 1037.2803 1041.5682"
-           y="370.38696"
-           sodipodi:role="line"
-           id="tspan27">bol = beginning of line</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.018px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#8b8880;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.883674"
-           x="970.79205"
-           y="379.15945"
-           sodipodi:role="line"
-           id="tspan29" /></text>
-      <text
-         transform="scale(0.80402301,1.2437455)"
-         id="text92"
-         x="958.44165"
-         y="381.77563"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.04736px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#8b8880;fill-opacity:1;stroke-width:0.902012"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.04736px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#8b8880;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.902012"
-           x="958.44165"
-           y="381.77563"
-           sodipodi:role="line"
-           id="tspan91">eol = end of line</tspan></text>
-      <text
-         transform="scale(0.75637956,1.3220875)"
-         id="text252"
-         x="1019.01"
-         y="365.03586"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.39616px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#8b8880;fill-opacity:1;stroke-width:0.862156"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.39616px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#8b8880;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.862156"
-           sodipodi:role="line"
-           id="tspan217"
-           x="1019.01"
-           y="365.03586">yank = copy</tspan></text>
-      <text
-         transform="scale(0.7592256,1.3171316)"
-         id="text383"
-         x="1014.8684"
-         y="346.90973"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.71357px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#8b8880;fill-opacity:1;stroke-width:0.883674"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.71357px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#8b8880;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.883674"
-           x="1014.8684"
-           y="346.90973"
-           sodipodi:role="line"
-           id="tspan383">[...] = misc. see :help</tspan></text>
-    </g>
+    <text
+       transform="scale(0.80804392,1.2375565)"
+       id="text29"
+       x="960.11243"
+       y="378.41266"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#8b8880;fill-opacity:1;stroke-width:0.820133"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#8b8880;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.820133"
+         x="960.11243 964.09198 968.07178 969.88245 971.69299 975.49683 977.3075 981.28705 984.90863 988.88818 990.69916 994.67871 998.65845 1000.4693 1004.4486 1008.4284 1010.239 1014.2189 1016.388 1018.1983 1020.0094 1021.8197 1025.7994"
+         y="378.41266"
+         sodipodi:role="line"
+         id="tspan27">bol = beginning of line</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#8b8880;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.820133"
+         x="960.11243"
+         y="385.91266"
+         sodipodi:role="line"
+         id="tspan29" /></text>
+    <text
+       transform="scale(0.98566575,1.0145427)"
+       id="text92"
+       x="786.43683"
+       y="467.56879"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#8b8880;fill-opacity:1;stroke-width:0.837368"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#8b8880;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.837368"
+         x="786.43683"
+         y="467.56879"
+         sodipodi:role="line"
+         id="tspan91">eol = end of line</tspan></text>
+    <text
+       transform="scale(0.79651623,1.2554672)"
+       id="text252"
+       x="973.26764"
+       y="383.01801"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.73477px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#8b8880;fill-opacity:1;stroke-width:0.775901"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.73477px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#8b8880;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.775901"
+         sodipodi:role="line"
+         id="tspan217"
+         x="973.26764"
+         y="383.01801">yank = copy</tspan></text>
+    <text
+       transform="scale(0.81221979,1.2311938)"
+       id="text383"
+       x="954.44427"
+       y="373.25757"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00000009px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#8b8880;fill-opacity:1;stroke-width:0.775328"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00000009px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#8b8880;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.775328"
+         x="954.44427"
+         y="373.25757"
+         sodipodi:role="line"
+         id="tspan383">[...] = misc. see :help</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.0391px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;fill:#43165e;fill-opacity:1;stroke:#000000;stroke-width:0.394139;stroke-linecap:round;stroke-linejoin:bevel;paint-order:markers fill stroke"
-       x="761.30695"
-       y="400.02725"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5719px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;fill:#43165e;fill-opacity:1;stroke:#000000;stroke-width:0.346107;stroke-linecap:round;stroke-linejoin:bevel;paint-order:markers fill stroke"
+       x="668.44635"
+       y="456.2106"
        id="text34"
-       transform="scale(0.82287514,1.2152512)"><tspan
+       transform="scale(0.93722504,1.0669796)"><tspan
          sodipodi:role="line"
-         x="761.30695"
-         y="400.02725"
+         x="668.44635"
+         y="456.2106"
          id="tspan34"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.0391px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.394139">Labels describe basic functionality, for more info</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5719px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.346107">Labels describe basic functionality, for more info</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.79094px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;fill:#43165e;fill-opacity:1;stroke:#000000;stroke-width:0.394139;stroke-linecap:round;stroke-linejoin:bevel;paint-order:markers fill stroke"
-       x="1052.8234"
-       y="342.50882"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.02314px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;fill:#43165e;fill-opacity:1;stroke:#000000;stroke-width:0.363231;stroke-linecap:round;stroke-linejoin:bevel;paint-order:markers fill stroke"
+       x="969.99365"
+       y="372.06812"
        id="text36"
-       transform="scale(0.70500343,1.4184328)"><tspan
+       transform="scale(0.76522161,1.306811)"><tspan
          sodipodi:role="line"
-         x="1052.8234"
-         y="342.50882"
+         x="969.99365"
+         y="372.06812"
          id="tspan36"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.79094px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.394139">(:help + character/action)</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.02314px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.363231">(:help + character/action)</tspan></text>
     <text
        transform="scale(0.84630908,1.1816014)"
        id="text286"
